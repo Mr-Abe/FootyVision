@@ -61,7 +61,7 @@ Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 License
 
-This project is licensed under the GNuL3 License.
+This project is licensed under the GNU General Public License v3.0.
 Acknowledgements
 
     This project is inspired by the tutorial [https://www.youtube.com/watch?v=neBZ6huolkg].
