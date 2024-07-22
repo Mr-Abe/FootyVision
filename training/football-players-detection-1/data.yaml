@@ -1,0 +1,12 @@
+names:
+- FOOTBALL-PLAYERS-DETECTION - v1 2024-05-22 10-20am
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: football-players-detection-0zybd
+  url: https://universe.roboflow.com/roboflowjvuqo-qjctr/football-players-detection-0zybd/dataset/1
+  version: 1
+  workspace: roboflowjvuqo-qjctr
+test: ../test/images
+train: football-players-detection-1/train/images
+val: football-players-detection-1/valid/images
